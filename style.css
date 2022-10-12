@@ -554,7 +554,7 @@ p:last-child {
 }
 
 .td-banner-main {
-  background-image: url(https://assets.codepen.io/7773162/main.webp);
+  background-image: url(pexels-alesia-kozik-6764232.png);
   background-position: top;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -567,7 +567,7 @@ p:last-child {
 }
 
 .td-banner-head-title div {
-  color: #ffffff;
+  color: #000000;
   font-family: "coff-regular";
   font-size: 200px;
   letter-spacing: -1.14px;
@@ -583,9 +583,10 @@ p:last-child {
 }
 
 .td-banner-head-title span {
-  color: #ffffff;
-  font-family: "mag-light";
+  color: #000000;
+  font-family: "roboto";
   font-size: 30px;
+  font-weight: bolder;
   letter-spacing: 10px;
   line-height: 38px;
   text-transform: uppercase;
@@ -768,7 +769,7 @@ img.mothers-potrait {
 }
 
 .td-collection-tile-mothersday .td-collection-tile-bg {
-  background-image: linear-gradient(270deg, #f1dacd 0%, #f2dbd0 100%);
+  background-image: url(pexels-alesia-kozik-6764232.png);
 }
 
 .td-collection-tile-bg {
